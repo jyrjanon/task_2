@@ -1,0 +1,16 @@
+From: "PayPal Account Support" <alert@paypaI-notification.com>
+To: user@example.com
+Subject: Urgent: Action Required to Restore Your PayPal Account
+
+Dear Customer,
+
+We have detected unusual activity in your PayPal account which may indicate unauthorized access. 
+For your safety, your account has been temporarily limited.
+
+To restore access, please complete verification within the next 12 hours:
+https://paypaI-notification.com/restore
+
+If you fail to verify, your account may be permanently suspended for security reasons.
+
+Thank you,
+PayPal Security Team
