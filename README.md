@@ -1,8 +1,5 @@
 # Task 2 – Phishing Email Analysis
 
-This repository contains the work completed for Task 2 of the Cyber Security Internship.  
-The objective of the task was to analyze a suspicious email by examining its header using free online tools and identifying phishing indicators based on the results.
-
 ## Files Included
 - phishing-email.txt  
   Contains the phishing email sample used for analysis.
