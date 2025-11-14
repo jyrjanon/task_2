@@ -16,14 +16,9 @@ The objective of the task was to analyze a suspicious email by examining its hea
 ## Tools Used
 The following free online tools were used for the analysis:
 
-1. MXToolbox Email Header Analyzer  
+  ~ MXToolbox Email Header Analyzer  
    https://mxtoolbox.com/EmailHeaders.aspx  
    Used to analyze SPF, DKIM, DMARC, relay information, and IP reputation.
-
-2. Google Message Header Analyzer  
-   https://toolbox.googleapps.com/apps/messageheader/  
-   Used to verify routing patterns and authentication results.
-
 
 ## What Was Done
 1. A phishing email sample was created and saved.  
