@@ -26,7 +26,7 @@ The following free online tools were used for the analysis:
 6. Indicators of spoofing and social engineering were documented.  
 7. A full phishing analysis report was prepared based on the results.
 
-![MXToolbox Header Analysis](screenshot_12345.png)
+![MXToolbox Header Analysis](Screenshot%202025-11-14%20201243.png)
 
 ## Conclusion
 The analyzed email exhibited all major signs of phishing, including failed authentication checks, suspicious sender domains, the use of foreign hosting servers, and the presence of a deceptive reply-to address. These findings confirm that the email was not legitimate and was created to deceive the recipient.
